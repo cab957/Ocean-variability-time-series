@@ -1,0 +1,15 @@
+# datos
+*.mat
+*.nc
+*.csv
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# otros
+*.xlsx
+*.zip
